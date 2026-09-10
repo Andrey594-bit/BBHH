@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Задание 1");
-Console.WriteLine($"Число e с точностью до десятых равно : {Math.Round(Math.E, 1)}");
+Console.WriteLine($"Число e с точностью до десятых равно : {Math.Round(Math.E, 1)}"); 
 Console.ReadKey();
 
 Console.WriteLine("Задание 2");
