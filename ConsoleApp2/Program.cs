@@ -51,7 +51,7 @@ Console.ReadKey();
 // задание 7
 Console.WriteLine("Задание 7");
 Console.WriteLine("Мир Труд Май");
-Console.ReadKey(); 
+Console.ReadKey();
 
 // задание 8
 Console.WriteLine("Задание 8");
