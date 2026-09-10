@@ -71,4 +71,4 @@ Console.Write("Введите число: ");
 string num = Console.ReadLine();
 Console.WriteLine($"Вы ввели число {num}");
 Console.ReadKey();
-
+ 
